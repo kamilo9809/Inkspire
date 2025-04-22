@@ -31,7 +31,7 @@ export const Footer = () => {
 
         <div className="text-center md:text-right text-xs text-gray-400">
           <p>
-            Hecho con 💜 por <span className="text-white font-medium">Jennifer Paola Mancilla Marriga</span>
+            Hecho con 💜 por <span className="text-white font-medium">Jeniffer Paola Mancilla Marriga</span>
           </p>
         </div>
       </div>

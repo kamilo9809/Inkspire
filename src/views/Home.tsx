@@ -10,7 +10,7 @@ export const Home = () => {
             transfer en seco con los más altos estándares de calidad.
           </p>
           <img
-            src="camisaleon.png"
+            src="logo.png"
             alt="Camiseta estampada"
             className="mx-auto rounded-lg shadow-lg max-w-md"
           />
