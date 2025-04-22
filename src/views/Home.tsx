@@ -12,7 +12,7 @@ export const Home = () => {
           <img
             src="logo.png"
             alt="Camiseta estampada"
-            className="mx-auto rounded-lg shadow-lg max-w-md"
+            className="mx-auto rounded-lg shadow-lg md:w-[20vw]"
           />
         </section>
   
@@ -32,7 +32,7 @@ export const Home = () => {
             <img
               src="personatrabajando.png"
               alt="Diseñador trabajando"
-              className="mx-auto rounded-lg shadow-lg max-w-md"
+              className="mx-auto rounded-lg shadow-lg md:w-[20vw]"
             />
           </div>
         </section>
